@@ -12,4 +12,4 @@ Create a script that lists all local variables and environment variables, and fu
 
 reate a script that creates a new local variable.
 
-
+reate a script that creates a new global variable.
